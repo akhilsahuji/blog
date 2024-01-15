@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://akhilsahuji.github.io/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>akhilsahu.dev@gmail.com (akhilsahuji)</managingEditor>
+    <webMaster>akhilsahu.dev@gmail.com (akhilsahuji)</webMaster>
+    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akhilsahuji.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How this blog works ?</title>
+      <link>https://akhilsahuji.github.io/post/2023-01-16-first-post/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><author>akhilsahu.dev@gmail.com (akhilsahuji)</author>
+      <guid>https://akhilsahuji.github.io/post/2023-01-16-first-post/</guid>
+      <description>This blog is built on a static site generator called Hugo. It is hosted on GitHub Pages. The theme is Beautiful Hugo. The source code is available on GitHub.</description>
+    </item>
+  </channel>
+</rss>

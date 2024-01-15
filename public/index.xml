@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://akhilsahuji.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>akhilsahu.dev@gmail.com (akhilsahuji)</managingEditor>
+    <webMaster>akhilsahu.dev@gmail.com (akhilsahuji)</webMaster>
+    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akhilsahuji.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How this blog works ?</title>
+      <link>https://akhilsahuji.github.io/post/2023-01-16-first-post/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><author>akhilsahu.dev@gmail.com (akhilsahuji)</author>
+      <guid>https://akhilsahuji.github.io/post/2023-01-16-first-post/</guid>
+      <description>This blog is built on a static site generator called Hugo. It is hosted on GitHub Pages. The theme is Beautiful Hugo. The source code is available on GitHub.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://akhilsahuji.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>akhilsahu.dev@gmail.com (akhilsahuji)</author>
+      <guid>https://akhilsahuji.github.io/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:&#xA;I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?&#xA;my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+    </item>
+  </channel>
+</rss>
