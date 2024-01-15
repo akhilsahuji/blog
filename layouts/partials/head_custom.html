@@ -1,0 +1,207 @@
+<!--
+If you want to include any custom html just before </head>, put it in this file.
+Or you can delete these file if you don't need it.
+<!-- -->
+<!-- for example, you could insert this custom css, which makes the bigimg not stretch:
+<style>
+.intro-header.big-img, .intro-header.big-img  .big-img-transition {
+  -webkit-background-size: contain !important;
+  -moz-background-size: contain !important;
+  background-size: contain !important;
+  -o-background-size: contain !important;
+  background-color: lightgrey;
+}
+</style>
+-->
+<!-- or you could include some additional css libraries:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.css" integrity="sha256-I1UoFd33KHIydu88R9owFaQWzwkiZV4hXXug5aYaM28=" crossorigin="anonymous" />
+-- -->
+
+
+<link rel="stylesheet" href="https://unpkg.com/open-props" />
+
+<style>
+  body {
+    background: var(--orange-0);
+    color: var(--gray-10);
+    font-family: var(--font-sans);
+    font-size: var(--font-size-5);
+    line-height: var(--font-lineheight-4);
+    font-weight: var(--font-weight-5);
+    
+
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background: var(--gray-10);
+      color: var(--orange-0);
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-sans);
+    background-image: var(--gradient-10);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+  }
+
+  h1:hover,
+  h2:hover,
+  h3:hover,
+  h4:hover,
+  h5:hover,
+  h6:hover,
+  h1:focus,
+  h2:focus,
+  h3:focus,
+  h4:focus,
+  h5:focus,
+  h6:focus {
+    background-image: var(--gradient-20);
+  }
+
+  a {
+    background-image: var(--gradient-10);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+  }
+
+  a:hover,
+  a:focus {
+    background-image: var(--gradient-20);
+  }
+
+  .navbar-brand {
+    font-family: var(--font-sans);
+    font-size: var(--font-size-fluid-3);
+  }
+
+  .navbar-toggle {
+    display: none;
+
+  }
+
+
+  .navbar-custom {
+    background: var(--orange-0);
+    font-family: var(--font-sans);
+    font-size: var(--font-size-fluid-3);
+    border: 0cap;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .navbar-custom {
+      background: var(--gray-10);
+      font-size: var(--font-size-fluid-3);
+      font-family: var(--font-sans);
+      border: 0cap;
+    }
+  }
+
+  .post-preview {
+    border: 0cap;
+
+  }
+
+  footer {
+    background: var(--orange-0);
+    font-family: var(--font-sans);
+    font-size: var(--font-size-fluid-1);
+  }
+
+  .fa,
+  .far,
+  .fal,
+  .fab {
+    background-image: var(--gradient-10);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .fa:hover,
+  .far:hover,
+  .fal:hover,
+  .fab:hover,
+  .fa:focus,
+  .far:focus,
+  .fal:focus,
+  .fab:focus {
+    background-image: var(--gradient-20);
+    animation: var(--animation-scale-up);
+    animation-duration: 0.5s;
+  }
+
+  .fa-envelope,
+  .fa-inverse {
+    background-image: var(--gradient-10);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .fa-envelope:hover,
+  .fa-envelope:focus,
+  .fa-inverse:hover,
+  .fa-inverse:focus {
+    background-image: var(--gradient-20);
+    animation: var(--animation-scale-up);
+    animation-duration: 0.5s;
+  }
+
+
+
+  @media (prefers-color-scheme: dark) {
+    footer {
+      background: var(--gray-10);
+      font-size: var(--font-size-fluid-1);
+      font-family: var(--font-sans);
+      padding: 4rem;
+      border: 0cap;
+    }
+  }
+
+
+
+
+  .pager li a {
+    background-image: var(--gradient-10);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: var(--font-sans);
+    border: 0cap;
+  }
+
+  .pager li a:hover,
+  .pager li a:focus {
+    background-image: var(--gradient-20);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 0cap;
+
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .pager li a {
+      background-image: var(--gradient-10);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-family: var(--font-sans);
+    }
+
+    .pager li a:hover,
+    .pager li a:focus {
+      background-image: var(--gradient-20);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      border: 0.1px var(--gray-9);
+
+    }
+  }
+</style>>
