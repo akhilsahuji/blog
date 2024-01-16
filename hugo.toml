@@ -16,7 +16,7 @@ theme = "github.com/halogenica/beautifulhugo"
 
 [Params]
   homeTitle = "I'm akhil." # Set a different text for the header on the home page
-  subtitle = "I build simple, powerful, and performant software."
+# subtitle = "I build simple, powerful, and performant software."
   mainSections = ["post","posts"]
   logo = "img/avatar.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
