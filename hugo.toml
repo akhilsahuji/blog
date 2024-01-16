@@ -15,7 +15,7 @@ theme = "github.com/halogenica/beautifulhugo"
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "I'm akhil." # Set a different text for the header on the home page
+  homeTitle = "BLOG." # Set a different text for the header on the home page
 # subtitle = "I build simple, powerful, and performant software."
   mainSections = ["post","posts"]
   logo = "img/avatar.jpg" # Expecting square dimensions
