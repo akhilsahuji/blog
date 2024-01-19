@@ -17,7 +17,6 @@ Or you can delete these file if you don't need it.
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.css" integrity="sha256-I1UoFd33KHIydu88R9owFaQWzwkiZV4hXXug5aYaM28=" crossorigin="anonymous" />
 -- -->
 
-
 <link rel="stylesheet" href="https://unpkg.com/open-props" />
 
 <style>
@@ -28,8 +27,6 @@ Or you can delete these file if you don't need it.
     font-size: var(--font-size-5);
     line-height: var(--font-lineheight-4);
     font-weight: var(--font-weight-5);
-    
-
   }
 
   @media (prefers-color-scheme: dark) {
@@ -48,8 +45,8 @@ Or you can delete these file if you don't need it.
     font-family: var(--font-sans);
     background-image: var(--gradient-10);
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
   }
 
   h1:hover,
@@ -70,8 +67,8 @@ Or you can delete these file if you don't need it.
   a {
     background-image: var(--gradient-10);
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
   }
 
   a:hover,
@@ -86,9 +83,7 @@ Or you can delete these file if you don't need it.
 
   .navbar-toggle {
     display: none;
-
   }
-
 
   .navbar-custom {
     background: var(--orange-0);
@@ -108,7 +103,6 @@ Or you can delete these file if you don't need it.
 
   .post-preview {
     border: 0cap;
-
   }
 
   footer {
@@ -123,6 +117,8 @@ Or you can delete these file if you don't need it.
   .fab {
     background-image: var(--gradient-10);
     background-clip: text;
+    -webkit-background-clip: text;
+
     -webkit-text-fill-color: transparent;
   }
 
@@ -142,6 +138,8 @@ Or you can delete these file if you don't need it.
   .fa-envelope,
   .fa-inverse {
     background-image: var(--gradient-10);
+    -webkit-background-clip: text;
+
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
@@ -155,8 +153,6 @@ Or you can delete these file if you don't need it.
     animation-duration: 0.5s;
   }
 
-
-
   @media (prefers-color-scheme: dark) {
     footer {
       background: var(--gray-10);
@@ -166,9 +162,6 @@ Or you can delete these file if you don't need it.
       border: 0cap;
     }
   }
-
-
-
 
   .pager li a {
     background-image: var(--gradient-10);
@@ -182,15 +175,18 @@ Or you can delete these file if you don't need it.
   .pager li a:focus {
     background-image: var(--gradient-20);
     background-clip: text;
+    -webkit-background-clip: text;
+
     -webkit-text-fill-color: transparent;
     border: 0cap;
-
   }
 
   @media (prefers-color-scheme: dark) {
     .pager li a {
       background-image: var(--gradient-10);
       background-clip: text;
+      -webkit-background-clip: text;
+
       -webkit-text-fill-color: transparent;
       font-family: var(--font-sans);
     }
@@ -199,9 +195,10 @@ Or you can delete these file if you don't need it.
     .pager li a:focus {
       background-image: var(--gradient-20);
       background-clip: text;
+      -webkit-background-clip: text;
+
       -webkit-text-fill-color: transparent;
       border: 0.1px var(--gray-9);
-
     }
-  }
-</style>>
+  }</style
+>>
