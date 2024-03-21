@@ -2,6 +2,7 @@
 title: who am i ?
 subtitle: Why you'd want to go on a date with me
 comments: false
+date: 2024-01-03
 ---
 
 i am akhil.
