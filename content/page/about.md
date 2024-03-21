@@ -1,16 +1,27 @@
 ---
-title: About me
+title: who am i ?
 subtitle: Why you'd want to go on a date with me
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+i am akhil.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**i endevour to build simple,performant and robust softwares.**
 
-What else do you need?
+i believe in unix philosophy:
 
-### my history
+- small is beautiful.
+- make each propgram do one thing well.
+- build prototype as soon as possible.
+- choose portability over efficienty.
+- store numeric data in ascii files.
+- use software leverage to your advantage.
+- use shell script to increase leverage and portability.
+- avoid captative user interface.
+- make every program a filter.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+
+
+
