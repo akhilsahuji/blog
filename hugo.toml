@@ -1,6 +1,6 @@
 baseurl = "https://akhilsahuji.github.io/blog"
 DefaultContentLanguage = "en"
-# title = "akhil's blog"
+# title = "BLOG."
 # Using theme as git submodule 
 #theme = "beautifulhugo"
 # Or when using theme as hugo module
