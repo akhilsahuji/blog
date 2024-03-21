@@ -1,6 +1,6 @@
 baseurl = "https://akhilsahuji.github.io/blog"
 DefaultContentLanguage = "en"
-# title = "BLOG."
+# title = ""
 # Using theme as git submodule 
 #theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -15,7 +15,7 @@ theme = "github.com/halogenica/beautifulhugo"
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "akhil's blog." # Set a different text for the header on the home page
+  homeTitle = "BLOG." # Set a different text for the header on the home page
 # subtitle = "a space where I rant about computers. "
   mainSections = ["post","posts"]
   logo = "img/avatar.jpg" # Expecting square dimensions
