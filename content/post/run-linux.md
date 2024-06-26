@@ -1,6 +1,6 @@
 ---
 title: plug and play linux.
-date:			2024-06-27
+date:	2024-06-27
 ---
 
 you want to use linux but also:
