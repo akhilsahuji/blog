@@ -1,6 +1,6 @@
 ---
 title: plug and play linux.
-date: 2024-06-27
+date: 2024-06-26
 ---
 
 you want to use linux but also:
@@ -17,7 +17,7 @@ i wanted the same things too.
 
 so i plugged this my old external wd sata 140gb drive into pc.
 
-> note: you should buy external ssd if     you are buying.
+>note: you should buy external ssd if you are buying.
 
 also downloaded pop-os iso file (this should work with any distro).
 
@@ -29,7 +29,7 @@ you should decide according to your computer specs as i have 16gb and 12 process
 
 then another dialog box will appear for allocate space in virtual hard disk.
 
-here you should select an option 
+here you should select an option
 `Do not add a virtual hard disk`
 
 then just go on with click next spree and now you will have a virtual machine witout virtual hardisk.
@@ -44,25 +44,15 @@ then click ok and close settings.
 
 now start the virtual machine.
 
-select try popos,and check from the drive app that your hard disk is mounted if not 
+select try popos,and check from the drive app that your hard disk is mounted if not
 you should mount that disk.
 
 after that the installation is similar in any normal linux distro just select clean install and follow instruction.
 
-after installation is completed 
-you can shutdown or restart(if you have doubt abouf installation) the operating system.
+after installation is completed,you can shutdown or restart(if you have doubt abouf installation) the operating system.
 
 after that close the virtual box and restart the system and go to boot menu to select boot order and seletct usb primary boot device first.
 
 now if you have plugged that hard drive and you restart the computer you will get the pop-os login screen.
 
 conrats now you are using fully functioning linux and your hardware fully and it is all plug and play no windows bootloader error or grub error.
-
-
-
-
-
-
-
-
-
