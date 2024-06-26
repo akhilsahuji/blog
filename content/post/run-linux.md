@@ -1,6 +1,7 @@
 ---
-title: plug and play linux.
+title: Linux On External Hard Drive.
 date: 2024-06-26
+subtitle: plug and play linux.
 ---
 
 you want to use linux but also:
@@ -14,6 +15,9 @@ you want to use linux but also:
 - you want to use linux like plug and play.
 
 i wanted the same things too.
+
+
+
 
 so i plugged my old external wd sata 140gb drive into usb port.
 
