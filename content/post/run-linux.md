@@ -55,4 +55,4 @@ after that close the virtual box and restart the system and go to boot menu to s
 
 now if you have plugged that hard drive and you restart the computer you will get the pop-os login screen.
 
-conrats now you are using fully functioning linux and your hardware fully and it is all plug and play no windows bootloader error or grub error.
+conrats now you are using fully functioning linux.
