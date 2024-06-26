@@ -15,7 +15,7 @@ you want to use linux but also:
 
 i wanted the same things too.
 
-so i plugged this my old external wd sata 140gb drive into pc.
+so i plugged my old external wd sata 140gb drive into usb port.
 
 >note: you should buy external ssd if you are buying.
 
