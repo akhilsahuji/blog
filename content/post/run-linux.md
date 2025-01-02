@@ -1,6 +1,7 @@
 ---
 author: akhilsahuji
 pubDatetime: 2025-01-02
+modDatetime: 2025-01-02
 title: Linux On External Hard Drive.
 featured: true
 draft: false
