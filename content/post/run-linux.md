@@ -1,7 +1,7 @@
 ---
 author: akhilsahuji
 date: 2025-01-02
-Title: Linux On External Hard Drive
+title: Linux On External Hard Drive
 featured: true
 draft: false
 subtitle: This blog is a step-by-step guide for those who want to use Linux
