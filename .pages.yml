@@ -11,7 +11,6 @@ content:
     fields:
       - { name: author, label: Author, type: string }
       - { name: date, label: Date, type: date }
-      - { name: title, label: Title, type: string, required: true }
       - { name: bigimg, label: Title, type: string }
       - { name: slug, label: Slug, type: string }
       - { name: featured, label: Featured, type: boolean }
