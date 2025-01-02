@@ -11,7 +11,7 @@ content:
     fields:
       - { name: author, label: Author, type: string }
       - { name: date, label: Date, type: date }
-      - { name: Title, label: Title, type: string }
+      - { name: title, label: Title, type: string, required: true }
       - { name: slug, label: Slug, type: string }
       - { name: featured, label: Featured, type: boolean }
       - { name: draft, label: Draft, type: boolean }
