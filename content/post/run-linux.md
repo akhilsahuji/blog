@@ -1,8 +1,18 @@
 ---
 author: akhilsahuji
 date: 2025-01-02
+bigimg: Linux On External Hard Drive.
 featured: true
 draft: false
+subtitle: This blog is a step-by-step guide for those who want to use Linux
+  without removing Windows, dual-booting, or using virtual machines or
+  containers. The author describes how to achieve this by using an external
+  drive and VirtualBox to install Pop!_OS. The process involves setting up a
+  virtual machine without a virtual hard disk, modifying USB settings, and
+  performing a clean install of the Linux distribution on the external drive.
+  Once complete, users can boot into Linux by selecting the external drive as
+  the primary boot device. The guide provides detailed instructions to ensure a
+  smooth and fully functioning Linux experience.
 ---
 you want to use linux but also:
 
